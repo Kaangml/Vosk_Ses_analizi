@@ -9,7 +9,7 @@ Bu uygulama, ses verisini alır, Vosk modeli ile metne dönüştürür ve metni 
 - **Kullanıcı Dostu Arayüz:** Basit ve kullanımı kolay Tkinter tabanlı bir grafik arayüz.
 
 ## Gereksinimler
-- **Python 3.x**
+- **Python <3.9**
 - Aşağıdaki Python kütüphaneleri:
   - `vosk`
   - `tkinter`
